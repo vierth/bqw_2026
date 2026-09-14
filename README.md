@@ -8,3 +8,9 @@ It is not always clear from the map what direction a building is facing, and oth
 
 ### Everything must be accessible.
 There should be some way to access every space on the map. If there is not a clear entrance to an area provide one and make note of how you have deviated from what is shown on the map.
+
+### Useful links
+Plugin for rapid Hutong building:
+[Hutong Plugin Unreal Engine](https://github.com/vierth/HutongPlugin)
+
+[Unreal Engine Download](https://www.unrealengine.com/download)
